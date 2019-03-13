@@ -1,12 +1,10 @@
 ## Introduction to Tableau
 
-Get to this repo by typing in URL: **tab.sage.codes**
-
 ### Setup
 
 - Install [Tableau Public](https://public.tableau.com/en-us/s/)
 
-- Download or clone the data in this [repo](https://github.com/sagecodes/tableau-datasets)(shortcut:**dataset.sage.codes**)
+- Download or clone the data in this [repo](https://github.com/keeno12/tableau-datasets)
 
 - Navigate to this [repo](https://github.com/sagecodes/tableau-datasets)(the one you're looking at) to follow along and save for later(shortcut: **tab.sage.codes**)!
 
@@ -14,21 +12,20 @@ I'll walk through these before we get started! The main thing is to make sure yo
 
 ### FAQ
 
-- Wifi: Look for password on walls
+- Wifi: g|Events pw: learningcommunity
 - Bathrooms: Behind you down the hall to the left
 - Kitchen outside back classroom door with Coffee & Tea!
-- Snacks + water in back of room
 
 ### Relevant upcoming events or class
 
-- [Data Analytics Part time Class](https://www.galvanize.com/part-time/data-analytics) 2/12/19 - 5/2/19
+- [Data Analytics Part time Class](https://www.galvanize.com/part-time/data-analytics) Starts May 7, 2019
 
 
 ## What this workshop is
 
 A super friendly introduction to Tableau No previous experience expected.
 
-You can't learn EVERYTHING in under 2 hours. But you can learn enough to get excited and comfortable to keep working and learning on your own! 
+You can't learn EVERYTHING in under 2 hours. But you can learn enough to get excited and comfortable to keep working and learning on your own!
 
 - This course is for absolute beginners
 - Ask Questions!
@@ -41,23 +38,19 @@ You can't learn EVERYTHING in under 2 hours. But you can learn enough to get exc
 
 ## About me:
 
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! For the past decade I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! I'm Currently learning more about computer vision and deep learning deep learning!
+Hello I'm [Keenan Olsen](https://linkedin.com/in/keenanolsen/). I'm a Developer Evangelist here at Galvanize!
 
-**Note:** I'm not a Galvanize Instructor, they're way better at teaching!
-
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
-- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
+- Twitter: [@keenanolsen](https://twitter.com/@keenanolsen)
+- LinkedIn: [Keenan Olsen](https://www.linkedin.com/in/keenanolsen/)
+- Email: [keenan.olsen@galvanize.com](mailto:keenan.olsen@galvanize.com)
 
 Reach out to me if interested in:
 
-- breaking into the tech industry 
+- breaking into the tech industry
 - learning resources
-- meetup recommendations 
+- meetup recommendations
 - learning more about Galvanize
-- giving me suggestions for events!
-- being friends
+- giving me suggestions for workshops & events]
 
 
 ## About you!
@@ -72,7 +65,7 @@ Give a quick Intro!
 
 ## What is Data Analytics
 
-A method of collecting information and *telling a story* with it to help make decisions. 
+A method of collecting information and *telling a story* with it to help make decisions.
 
 The data analytics role varies greatly from company to company but a lot of the core skillset is the same / very similar!
 
@@ -81,7 +74,7 @@ The data analytics role varies greatly from company to company but a lot of the 
 
 Probably ANY modern company.
 
-### Common Analytic tools 
+### Common Analytic tools
 
 - Excel
 - SQL
@@ -116,26 +109,26 @@ Checkout [tableau public Gallery](https://public.tableau.com/en-us/s/gallery) fo
 
 After the class make sure you explore more charts to get inspired, and see the full functionality of tableau! Downloading workbooks and reverse engineering them is GREAT way to learn more advanced techniques!
 
-Notice how not only are the visuals great, but there are a lot of opportunities to be interactive with the data! This is super useful to give to teams or clients who want to be able to explore more on there own easily. 
+Notice how not only are the visuals great, but there are a lot of opportunities to be interactive with the data! This is super useful to give to teams or clients who want to be able to explore more on there own easily.
 
-Tableau can be incredibly powerful! And can be a super useful tool to have in your toolset as a Data Analyst, Business Intelligence Analyst, or Data Scientist. 
+Tableau can be incredibly powerful! And can be a super useful tool to have in your toolset as a Data Analyst, Business Intelligence Analyst, or Data Scientist.
 
-Keep in mind that this is just an intro course and we will only be scratching the surface what tableau is capable of. If you find it interesting keep learning! 
+Keep in mind that this is just an intro course and we will only be scratching the surface what tableau is capable of. If you find it interesting keep learning!
 
-We have a part time Data Analytics class! you'll cover data analytics with Excel, SQL, and Tableau. The course also includes our Career Services support to help find a job. 
+We have a part time Data Analytics class! you'll cover data analytics with Excel, SQL, and Tableau. The course also includes our Career Services support to help find a job.
 
 
 # Lets make things with Tableau!
 
-For the next hour or so we're going to be Data Analysts! 
+For the next hour or so we're going to be Data Analysts!
 
-We have three clients that want answers about their data. 
+We have three clients that want answers about their data.
 
 We're going to look at 3 different datasets, and answer questions about them.
 
 Tip: For these workshop we will be using data thats already in a good formatted, but when working with clients in the field be prepared to do a lot of data cleaning / reformatting!
 
-I also put together step by step instructions for each project here. I know its hard to remember everything in a workshop. So make sure you save the page if you want to come back to it later! I'll also be adding more updates later this month. 
+I also put together step by step instructions for each project here. I know its hard to remember everything in a workshop. So make sure you save the page if you want to come back to it later! I'll also be adding more updates later this month.
 
 
 ### Project 1
@@ -181,7 +174,7 @@ Find the Completed Project [here]().-->
 
 Lets break away from Seattle data and look at the data from the Titanic.
 
-This time we want to make a dashboard looking at several aspects of the titanic. 
+This time we want to make a dashboard looking at several aspects of the titanic.
 
 - Where did people embark froom?
 - How many people embarked from each place and what class were they?
@@ -220,7 +213,7 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 
 #### Immersive Bootcamp
 
-- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/2/19 
+- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/2/19
 
 - [Software Engineer](https://www.galvanize.com/web-development) - 2/19/19 - 5/17/19
 
@@ -242,9 +235,5 @@ Please feel free to reach out to me with any questions! Let me know what you're 
 
 - Website: [sageelliott.com](http://sageelliott.com/)
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
+- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/)
 - Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
-
-
-
-
