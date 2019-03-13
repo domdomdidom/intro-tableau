@@ -6,7 +6,7 @@
 
 - Download or clone the data in this [repo](https://github.com/keeno12/tableau-datasets)
 
-- Navigate to this [repo](https://github.com/sagecodes/tableau-datasets)(the one you're looking at) to follow along and save for later(shortcut: **tab.sage.codes**)!
+- Navigate to this [repo](https://github.com/keeno12/tableau-datasets)(the one you're looking at) to follow along and save for later!
 
 I'll walk through these before we get started! The main thing is to make sure you have [Tableau](https://public.tableau.com/en-us/s/) installed!
 
