@@ -22,13 +22,13 @@ You should now see a screen similar to this:
 
 Notice the data in the bottom half of the screen that looks like an excel sheet. This is a good opportunity to explore our data a bit before going further with the visualization.
 
-We can see this dataset is fair simple. It only contains three columns. 
+We can see this dataset is fairly simple. It only contains three columns.
 
 - The date and hour
 - Number of bikes on East sidewalk
-- Number of bikes on the west Sidewalk
+- Number of bikes on the West Sidewalk
 
-After we're done looking at our data lets click on the `sheet 1` near the bottom left
+After we're done looking at our data let's click on the `sheet 1` near the bottom left
 
 ![sheet 1](img/fremont/sheet1.png "sheet1")
 
@@ -37,7 +37,7 @@ You should see a screen like this:
 ![sheet 1](img/fremont/sheet.png "sheet1")
 
 
-There are a lot of things going on here, lets may attention two parts right now:
+There are a lot of things going on here, let's pay attention two parts right now:
 
 - Columns and Rows
 
@@ -54,7 +54,7 @@ Bike rides grouped by Month
 
 ![sheet 1](img/fremont/data.png "sheet1")
 
-Since we know we want to visualize by month lets drag `Date` data into the columns section. If you've used excel to make charts before this probably makes sense, usually you can think of columns as going left to right. Rows usually are going from top to bottom.
+Since we know that we want to visualize by month, let's drag the `Date` data into the columns section. If you've used excel to make charts before this probably makes sense, usually you can think of columns as going left to right. Rows usually are going from top to bottom.
 
 Sheet Example:
 
@@ -69,7 +69,7 @@ Change to month
 ![sheet 1](img/fremont/changemonth.png "sheet1")
 
 
-You may notice that our data in the columns section now turned green(measure) Why Month/Date changes to Measure
+You may notice that our data in the columns section now turned green(measure) While Month/Date changes to Measure.
 
 
 ![sheet 1](img/fremont/sidewalkmonths.png "sheet1")
@@ -79,7 +79,7 @@ So from here we can actually already start seeing some insights about our data!
 
 ----
 
-### Challenge: 
+### Challenge:
 Even though we only have one of the sidewalks in our data we can start looking at some data:
 
 What month has the lowest rides?
@@ -99,7 +99,7 @@ Lets drag our other sidewalk data in the `rows` section.
 
 Neat! We can see that they're similar looking, but slightly different!
 
-Now if we hover over our lines the tulip displays values from both sidewalks. Tableau is gussguessinging we would want to compare them!
+Now if we hover over our lines the tulip displays values from both sidewalks. Tableau is guessing we would want to compare them!
 
 
 
@@ -114,17 +114,17 @@ Select side by side bar chart
 
 ![sheet 1](img/fremont/sidebysidechart.png "sheet1")
 
-This actually isn't super terrible. We can see side by side how many rides there were for each month. 
+This actually isn't super terrible. We can see side by side how many rides there were for each month.
 
 But lets make this even cleaner!
 
-Drag measure names out of columns 
+Drag measure names out of columns
 
 ![sheet 1](img/fremont/stacked.png "sheet1")
 
-This gives a stacked chart. This actually may be useful if we want to see the combined amount of rides but still see what the split was like visually. 
+This gives a stacked chart. This actually may be useful if we want to see the combined amount of rides but still see what the split was like visually.
 
-It can still be a little hard to see how big the differences are, lets make this a line chart. 
+It can still be a little hard to see how big the differences are, lets make this a line chart.
 
 
 Instead of clicking show me to change the chart, this time we are going to click under the `Marks` section and select `line`
@@ -145,11 +145,10 @@ Click on the `Analytics` tab right next to `Data`.
 
 ### Challenge
 Click around on a few to explore different charts!
-Are some better than others for answering different questions?
+Are there some better than others for answering different questions?
 
 
 ### Project Recap:
-- import CSV files (what do we select)? 
+- import CSV files (what do we select)?
 - Measures vs dimensions (What are the differences?)
 - How do we change chart types?
-
