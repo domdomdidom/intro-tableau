@@ -145,7 +145,7 @@ Find the Completed Project [here](https://public.tableau.com/profile/sage.elliot
 
 ### Project 2
 
-Seattle loves its bike data! Lets pretend we own this bike company and we want to know what the trend is in riders. This should be a pretty fast analysis. Its similar to the last one. This will be the last bite related project tonight!
+Seattle loves its bike data! Lets pretend we own this bike company and we want to know what the trend is in riders. This should be a pretty fast analysis. Its similar to the last one. This will be the last bike related project tonight!
 
 - Pronto Bikes Seattle
 
@@ -156,19 +156,6 @@ Find the step by step instructions [here](pronto-step-by-step.md).
 Find the Complete project [here](https://public.tableau.com/profile/sage.elliott#!/vizhome/ProntoBikes/Sheet1)
 
 
-<!--### Project 3
-
-
-
-- Seattle Pet License
-
-https://data.seattle.gov/Community/Seattle-Pet-Licenses/jguv-t9rb
-
-Find the step by step instructions [here](pet-step-by-step.md).
-
-Find the Completed Project [here]().-->
-
-
 ### Project 3
 
 
@@ -176,7 +163,7 @@ Lets break away from Seattle data and look at the data from the Titanic.
 
 This time we want to make a dashboard looking at several aspects of the titanic.
 
-- Where did people embark froom?
+- Where did people embark from?
 - How many people embarked from each place and what class were they?
 - How did the death rate compare between classes?
 
@@ -187,6 +174,7 @@ Find the Completed Project [here](https://public.tableau.com/profile/sage.elliot
 
 
 ## Keep Learning!
+[FREE Premium Prep 'Gift of Prep'](https://www.galvanize.com/gift-of-prep?utm_medium=SF&utm_source=Workshops&utm_campaign=sf-ko)
 
 [Free Galvanize Data Science Prep](https://www.galvanize.com/data-science/prep)
 
@@ -204,8 +192,6 @@ Let me know you built or if you need help with anything!
 
 We host so many events! check out our [calendar](https://www.galvanize.com/events)
 
-Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
-
 
 ## What is Galvanize?
 ###### We are a community!
@@ -215,12 +201,12 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 
 - [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/2/19
 
-- [Software Engineer](https://www.galvanize.com/web-development) - 2/19/19 - 5/17/19
+- [Software Engineer](https://www.galvanize.com/web-development)
 
 #### Part-Time Courses
 
-- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) 2/12/19 - 5/2/19
-- [Python Fundamentals](https://www.galvanize.com/part-time/data-science-fundamentals) - 2/20/19 - 3/29/19
+- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) 5/7/19
+
 
 #### Co-working Space
 
@@ -231,9 +217,3 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 ## Questions
 
 Please feel free to reach out to me with any questions! Let me know what you're planning to do next and how I can help!
-
-
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/)
-- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
