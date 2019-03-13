@@ -171,6 +171,16 @@ Find the step by step instructions [here](titanic-step-by-step.md).
 
 Find the Completed Project [here](https://public.tableau.com/profile/sage.elliott#!/vizhome/Titanic_671/FullStory).
 
+### Advanced Tableau Resources
+[Tableau Getting Started](https://www.youtube.com/watch?v=GkJwcyI_1vc)
+
+[Advanced Mapping Techniques](https://www.youtube.com/watch?v=n-BoJZNhkZE)
+
+[Building Advanced Analytics Applications with R and Python Integration](https://www.youtube.com/watch?v=UW318Z20Mv8)
+
+[Level of Detail Expressions](https://www.youtube.com/watch?v=DwbWRPnimvQ&t=2567s)
+
+
 
 
 ## Keep Learning!
