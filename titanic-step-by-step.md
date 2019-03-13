@@ -1,16 +1,16 @@
-## Titanic 
+## Titanic
 
 
 ### Importing Data (Titanic)
 
-First we will need to import data. 
+First we will need to import data.
 
 Select what type of data. In this case its Microsoft Excel(xls)
 
 ![sheet 1](img/pronto/pronto-connect.png "sheet1")
 
 
-Navigate to where you saved the data and open the titanic file
+Navigate to where you saved the data and open the Titanic file
 
 ![sheet 1](img/titanic/titanicfile.png "sheet1")
 
@@ -34,22 +34,22 @@ This time we're going to use multiple sheets, so lets rename our `sheet1 `. We'r
 ![sheet 1](img/titanic/renamesheet.png "sheet1")
 
 
-For this sheet we want to make a map!!!
+For this sheet we want to make a map!
 
 Lets move Lets move `latitude` and `longitude` into dimensions. If we don't put them in dimensions it should actually still work in this example, but tableau will be trying to do a calculation on them. `AVG(latitude)`.
 
 
 Lets populate our map!
 
-- Drag `Longitude` into the columns sections
+- Drag `Longitude` into the Columns sections
 
-- Drag `Latitude` into the Rows Sections 
+- Drag `Latitude` into the Rows Sections
 
 
 ![sheet 1](img/titanic/loglat.png "sheet1")
 
 
-Cool we have a map!!! Lets add in the Country and city displayed on the map.
+Cool, now we have a map!!! Lets add in the Country and city displayed on the map.
 
 - Drag `Country` into the marks section
 
@@ -72,21 +72,20 @@ Lets make a new sheet
 ![sheet 1](img/titanic/newsheet.png "sheet1")
 
 
-And name it `EmbarkCount`. We want to get the number of people who left at each city. 
+And name it `EmbarkCount`. We want to get the number of people who left at each city.
 
 - Drag `City` to Columns
-- Drag `Number of Records` to Rows(make sure is is SUM).
+- Drag `Number of Records` to Rows (make sure is is SUM).
 
 
 ![sheet 1](img/titanic/emcount.png "sheet1")
 
 
 
-
 This gives us the count, but lets get even more data!
 
 - Drag `Pclass` into dimensions
-- Drag `Pclass` into color marks 
+- Drag `Pclass` into color marks
 
 ![sheet 1](img/titanic/pclass.png "sheet1")
 
@@ -99,7 +98,7 @@ Make a new sheet and call it `Deaths`
 
 - Drag `Pclass` into columns
 - Drag `Dead or Alive`	into columns
-- Drag `Number of Records` to Rows(make sure is is SUM).
+- Drag `Number of Records` to Rows (make sure is is SUM).
 - Drag `Pclass` into color marks
 
 That was fast!
@@ -113,7 +112,7 @@ I hope you're beginning to see how fast tableau can be!
 Dashboards are a place we can combine multiple sheets and charts in one place to tell a larger story!
 
 
-Create a new dashboard. 
+Create a new dashboard.
 
 ![sheet 1](img/titanic/dash.png "sheet1")
 
@@ -146,4 +145,3 @@ Toggle on highlighting selection
 ### Project Recap:
 
 - What is a Dashboard?
-
